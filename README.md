@@ -5,10 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=thiruvanth04&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="135" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=thiruvanth04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="135" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=thiruvanth04&column=2&row=2&margin-w=1&margin-h=1&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiruvanth04&theme=react&area=true&hide_border=true&hide_title=false" height="135" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiruvanth04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=thiruvanth04&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
 </div>
 
 ###
