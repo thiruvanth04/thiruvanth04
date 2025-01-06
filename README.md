@@ -81,22 +81,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/thiruvanth04/thiruvanth04/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <img align="left" height="0" src=""  />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/thiru">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=thiru&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
