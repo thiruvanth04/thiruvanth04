@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thiruvanth04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="140" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=thiruvanth04&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=thiruvanth04&column=2&row=2&margin-w=1&margin-h=1&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -82,8 +82,10 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="0" src=""  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiruvanth04/thiruvanth04/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiruvanth04/thiruvanth04/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thiruvanth04/thiruvanth04/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
