@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiruvanth04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="140" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=thiruvanth04&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="140" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thiruvanth04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=thiruvanth04&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="140" alt="streak graph"  />
 </div>
 
 ###
@@ -73,6 +73,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="33" alt="fedora logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="33" alt="pytorch logo"  />
+</div>
+
+###
+
+<div align="center">
 </div>
 
 ###
