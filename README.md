@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiruvanth04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiruvanth04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="140" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=thiruvanth04&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
 </div>
 
